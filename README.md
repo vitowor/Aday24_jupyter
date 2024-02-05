@@ -1,2 +1,3 @@
 # Aday24_jupyter
-Progetto di prova dell'academy day 2024
+Progetto di prova dell'Academy Day 2024
+
